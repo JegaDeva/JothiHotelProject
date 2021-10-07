@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { PopupModalComponent } from './examples/popup-modal/popup-modal.component';
-import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   imports: [BrowserModule, FormsModule, NgbModule.forRoot()],
